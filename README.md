@@ -1,7 +1,6 @@
 # Hi, I'm Katsura 👋
 
-🎓 CS student at Kharazmi University  
-🌱 I’m currently learning frontend    
+🎓 CS student 
 📂 Projects: 
 - [Askie chatBot](https://github.com/kotarou-katsura/Askie)
 
